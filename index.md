@@ -17,20 +17,24 @@ Cloud computing es un modelo para habilitar ubicuo, conveniente, acceso en deman
   - Los empleados tienen la libertad de compartir aplicaciones y documentos cuando quieran.
 
 ## Modelos de despliegue
+### Pública
+La arquitectura de nube es provisionada para uso abierto general. Puede ser propietario, manejado y operado por una o más organizaciones en la comunidad, terceros, academias, universidades, colegios, gobierno, entre otros.
+  
+### Privada
+Cuando una nube de servidores no tiene un acceso público, sino que se comparte con una sola organización. Esto le ofrece a la empresa la libertad de personalizar el soporte y las funciones a sus necesidades, ya que su diseño gira en torno exclusivamente al modelo.
+  
+### Híbrida
+La infraestructura es una composición de dos o más distintas infraestructuras que permanecen siendo entidades únicas, pero están combinadas por una tecnología estandarizada que permite la portabilidad entre datos y aplicaciones.
 
-  a. Pública: La arquitectura de nube es provisionada para uso abierto general. Puede ser propietario, manejado y operado por una o más organizaciones en la comunidad, terceros, academias, universidades, colegios, gobierno, entre otros.
-  
-  b.Privada: Cuando una nube de servidores no tiene un acceso público, sino que se comparte con una sola organización. Esto le ofrece a la empresa la libertad de personalizar el soporte y las funciones a sus necesidades, ya que su diseño gira en torno exclusivamente al modelo.
-  
-  c.Híbrida: La infraestructura es una composición de dos o más distintas infraestructuras que permanecen siendo entidades únicas, pero están combinadas por una tecnología estandarizada que permite la portabilidad entre datos y aplicaciones.
-  
 ## Modelos de servicio
- 
-  a. Infrastructure as a service (IaaS): Se alquilan herramientas que permiten el almacenamiento y la transmición de datos, como servidores, routers y datacenters. Su escalabilidad permite que su serviciop se pueda aumentar o reducir en cualquier momento.
-  
-  b. Software as a service (SaaS): La capacidad proveía a los consumidores son las aplicaciones del proveedor corriendo en una infraestructura de nube.  Las aplicaciones son accesibles desde varios clientes a través de la interfaz cliente o el navegador, o un programa interfaz. El consumidor no maneja o controla la fundamentalmente la infraestructura incluida la red, almacenamiento, servidor, sistema operativo o hasta las capacidades individuales de la aplicación, el uso está limitado por el o los administradores.
-  
-  c. Platform as a service (PaaS): Este modelo tiene como recursos sistemas operativos, sistemas de gestión de bases de datos, herramientas de desarrollo y todo ambiente de desarrollo que sea necesario, incluyendo la infraestructura para ejecutar aplicaciones web o móviles. La administración y la actualización de la infraestructura quedan a cargo del proveedor; el equipo de desarrollo solo tienen que preocuparse por la programación de la aplicación.
+### Infrastructure as a service (IaaS)
+Se alquilan herramientas que permiten el almacenamiento y la transmición de datos, como servidores, routers y datacenters. Su escalabilidad permite que su serviciop se pueda aumentar o reducir en cualquier momento.
+
+### Software as a service (SaaS)
+La capacidad proveía a los consumidores son las aplicaciones del proveedor corriendo en una infraestructura de nube.  Las aplicaciones son accesibles desde varios clientes a través de la interfaz cliente o el navegador, o un programa interfaz. El consumidor no maneja o controla la fundamentalmente la infraestructura incluida la red, almacenamiento, servidor, sistema operativo o hasta las capacidades individuales de la aplicación, el uso está limitado por el o los administradores.
+
+### Platform as a service (PaaS)
+Este modelo tiene como recursos sistemas operativos, sistemas de gestión de bases de datos, herramientas de desarrollo y todo ambiente de desarrollo que sea necesario, incluyendo la infraestructura para ejecutar aplicaciones web o móviles. La administración y la actualización de la infraestructura quedan a cargo del proveedor; el equipo de desarrollo solo tienen que preocuparse por la programación de la aplicación.
   
 5.Comparativa de tres principales proveedores de Cloud Computing con respecto a su oferta general, posicionamiento en el mercado y beneficios para los developers
 ### AWS _Isaac_
