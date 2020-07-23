@@ -75,7 +75,7 @@ Servicios esenciales:
   
 5. Comparativa de tres principales proveedores de Cloud Computing con respecto a su oferta general, posicionamiento en el mercado y beneficios para los developers _Ambos_
 
-6 .Construcción de una aplicación sencilla de ejemplo en el PaaS de tres proveedores distintos. Deberá proveer el link de la aplicación ejecutándose en el cloud y el repositorio de GitHub con el código _Ambos_
+6. Construcción de una aplicación sencilla de ejemplo en el PaaS de tres proveedores distintos. Deberá proveer el link de la aplicación ejecutándose en el cloud y el repositorio de GitHub con el código _Ambos_
 
 https://www.salesforce.com/mx/cloud-computing/
 
