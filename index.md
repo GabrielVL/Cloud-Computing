@@ -45,7 +45,7 @@ Este modelo tiene como recursos sistemas operativos, sistemas de gestión de bas
 - oferta general
 - posicionamiento en el mercado
 - beneficios para los developers
-### Google Cloud _Gabo_
+### Google Cloud 
 - Oferta general:  Entrando en el mercado recientemente y con menos enfoque en la empresa comparado con los demás, Google tiene experiencia técnica en sus herramientas orientadas en la industria del deep learning, inteligencia artificial, machine learning y análisis de datos.
 - Posicionamiento en el mercado: Recibe 8 mil millones de dolares en ingresos. Es el tercer proveedor que  más ingresos recibe en el mundo.
 - Beneficios para los developers: Está diseñado para negocios nativos en la nube, contratos flexibles y grandes ofertas.
@@ -58,3 +58,5 @@ https://rockcontent.com/es/blog/computacion-en-la-nube/
 https://www.c-sharpcorner.com/article/top-10-cloud-service-providers/
 
 https://www.datamation.com/cloud-computing/aws-vs-azure-vs-google-cloud-comparison.html
+
+Mell, P., & Grance, T. (2011, September 7). The NIST Definition of Cloud Computing. National Institute of Standards and Technology. http://faculty.winthrop.edu/domanm/csci411/Handouts/NIST.pdf
