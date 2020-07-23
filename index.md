@@ -40,14 +40,25 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ### Jekyll Themes
 
 1.Definición e historia de Cloud Computing _Isaac_
+
 2.Conceptos básicos _Gabo_
+
 3.Explicación de los modelos de despliegue: _Ambos (Ver especificación)_
+
   a.Pública _Isaac_
+  
   b.Privada _Gabo_
+  
   c.Híbrida _Isaac_
+  
  4.Explicación de los modelos de servicio: _Ambos (Ver especificación)_
+ 
   a.IaaS _Gabo_
+  
   b.SaaS _Isaac_
+  
   c.PaaS _Gabo_
+  
 5.Comparativa de tres principales proveedores de Cloud Computing con respecto a su oferta general, posicionamiento en el mercado y beneficios para los developers _Ambos_
+
 6.Construcción de una aplicación sencilla de ejemplo en el PaaS de tres proveedores distintos. Deberá proveer el link de la aplicación ejecutándose en el cloud y el repositorio de GitHub con el código _Ambos_
