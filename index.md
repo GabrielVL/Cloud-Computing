@@ -24,7 +24,7 @@ Cloud computing es un modelo para habilitar ubicuo, conveniente, acceso en deman
   
   c.Híbrida: La infraestructura es una composición de dos o más distintas infraestructuras que permanecen siendo entidades únicas, pero están combinadas por una tecnología estandarizada que permite la portabilidad entre datos y aplicaciones.
   
- ## Modelos de servicio
+## Modelos de servicio
  
   a. Infrastructure as a service (IaaS): Se alquilan herramientas que permiten el almacenamiento y la transmición de datos, como servidores, routers y datacenters. Su escalabilidad permite que su serviciop se pueda aumentar o reducir en cualquier momento.
   
@@ -32,7 +32,7 @@ Cloud computing es un modelo para habilitar ubicuo, conveniente, acceso en deman
   
   c. Platform as a service (PaaS): Este modelo tiene como recursos sistemas operativos, sistemas de gestión de bases de datos, herramientas de desarrollo y todo ambiente de desarrollo que sea necesario, incluyendo la infraestructura para ejecutar aplicaciones web o móviles. La administración y la actualización de la infraestructura quedan a cargo del proveedor; el equipo de desarrollo solo tienen que preocuparse por la programación de la aplicación.
   
-5.Comparativa de tres principales proveedores de Cloud Computing con respecto a su oferta general, posicionamiento en el mercado y beneficios para los developers 
+5.Comparativa de tres principales proveedores de Cloud Computing con respecto a su oferta general, posicionamiento en el mercado y beneficios para los developers
 ### AWS _Isaac_
 - oferta general
 - posicionamiento en el mercado
