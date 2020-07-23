@@ -26,11 +26,11 @@ Modelos de despliegue:
   
  Modelos de servicio:
  
-  a. IaaS (Infraestructura como servicio): Se alquilan herramientas que permiten el almacenamiento y la transmición de datos, como servidores, routers y datacenters. Su escalabilidad permite que su serviciop se pueda aumentar o reducir en cualquier momento.
+  a. Infrastructure as a service (IaaS): Se alquilan herramientas que permiten el almacenamiento y la transmición de datos, como servidores, routers y datacenters. Su escalabilidad permite que su serviciop se pueda aumentar o reducir en cualquier momento.
   
   b. Software as a service (SaaS): La capacidad proveía a los consumidores son las aplicaciones del proveedor corriendo en una infraestructura de nube.  Las aplicaciones son accesibles desde varios clientes a través de la interfaz cliente o el navegador, o un programa interfaz. El consumidor no maneja o controla la fundamentalmente la infraestructura incluida la red, almacenamiento, servidor, sistema operativo o hasta las capacidades individuales de la aplicación, el uso está limitado por el o los administradores.
   
-  c. PaaS (Plataforma como servicio): Este modelo tiene como recursos sistemas operativos, sistemas de gestión de bases de datos, herramientas de desarrollo y todo ambiente de desarrollo que sea necesario, incluyendo la infraestructura para ejecutar aplicaciones web o móviles. La administración y la actualización de la infraestructura quedan a cargo del proveedor; el equipo de desarrollo solo tienen que preocuparse por la programación de la aplicación.
+  c. Platform as a service (PaaS): Este modelo tiene como recursos sistemas operativos, sistemas de gestión de bases de datos, herramientas de desarrollo y todo ambiente de desarrollo que sea necesario, incluyendo la infraestructura para ejecutar aplicaciones web o móviles. La administración y la actualización de la infraestructura quedan a cargo del proveedor; el equipo de desarrollo solo tienen que preocuparse por la programación de la aplicación.
   
 5.Comparativa de tres principales proveedores de Cloud Computing con respecto a su oferta general, posicionamiento en el mercado y beneficios para los developers _Ambos_
 
