@@ -39,3 +39,5 @@ Modelos de despliegue:
 https://www.salesforce.com/mx/cloud-computing/
 
 https://rockcontent.com/es/blog/computacion-en-la-nube/
+
+Mell, P., & Grance, T. (2011, September 7). The NIST Definition of Cloud Computing. National Institute of Standards and Technology. http://faculty.winthrop.edu/domanm/csci411/Handouts/NIST.pdf
