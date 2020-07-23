@@ -18,7 +18,7 @@ Servicios esenciales:
   - Maneja los problemas de recuperación mejor que los proveedores que no son en la nube.
   - Los empleados tienen la libertad de compartir aplicaciones y documentos cuando quieran.
 
-3. Explicación de los modelos de despliegue: _Ambos (ver especificación)_
+3. Explicación de los modelos de despliegue:
 
   a. Pública: La arquitectura de nube es provisionada para uso abierto general. Puede ser propietario, manejado y operado por una o más organizaciones en la comunidad, terceros, academias, universidades, colegios, gobierno, entre otros.
   
@@ -26,7 +26,7 @@ Servicios esenciales:
   
   c.Híbrida: La infraestructura es una composición de dos o más distintas infraestructuras que permanecen siendo entidades únicas, pero están combinadas por una tecnología estandarizada que permite la portabilidad entre datos y aplicaciones.
   
- 4. Explicación de los modelos de servicio: _Ambos (ver especificación)_
+ 4. Explicación de los modelos de servicio:
  
   a. IaaS (Infraestructura como servicio): Se alquilan herramientas que permiten el almacenamiento y la transmición de datos, como servidores, routers y datacenters. Su escalabilidad permite que su serviciop se pueda aumentar o reducir en cualquier momento.
   
