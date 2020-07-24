@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Isaac\\Programming\\Azure\\Azure.csproj": {}
+    "D:\\Isaac\\Programming\\Azure\\Investigación\\Cloud-Computing\\Azure\\Azure.csproj": {}
   },
   "projects": {
-    "D:\\Isaac\\Programming\\Azure\\Azure.csproj": {
+    "D:\\Isaac\\Programming\\Azure\\Investigación\\Cloud-Computing\\Azure\\Azure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Isaac\\Programming\\Azure\\Azure.csproj",
+        "projectUniqueName": "D:\\Isaac\\Programming\\Azure\\Investigación\\Cloud-Computing\\Azure\\Azure.csproj",
         "projectName": "Azure",
-        "projectPath": "D:\\Isaac\\Programming\\Azure\\Azure.csproj",
+        "projectPath": "D:\\Isaac\\Programming\\Azure\\Investigación\\Cloud-Computing\\Azure\\Azure.csproj",
         "packagesPath": "C:\\Users\\Isaac\\.nuget\\packages\\",
-        "outputPath": "D:\\Isaac\\Programming\\Azure\\obj\\",
+        "outputPath": "D:\\Isaac\\Programming\\Azure\\Investigación\\Cloud-Computing\\Azure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

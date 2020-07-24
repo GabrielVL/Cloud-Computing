@@ -1,0 +1,3 @@
+D:\Isaac\Programming\Azure\Investigación\Cloud-Computing\Azure\bin\Debug\netcoreapp3.1\Azure.exe
+D:\Isaac\Programming\Azure\Investigación\Cloud-Computing\Azure\bin\Debug\netcoreapp3.1\Azure.dll
+D:\Isaac\Programming\Azure\Investigación\Cloud-Computing\Azure\bin\Debug\netcoreapp3.1\Azure.Views.dll
