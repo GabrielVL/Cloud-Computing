@@ -36,16 +36,20 @@ La capacidad proveía a los consumidores son las aplicaciones del proveedor corr
 ### Platform as a service (PaaS)
 Este modelo tiene como recursos sistemas operativos, sistemas de gestión de bases de datos, herramientas de desarrollo y todo ambiente de desarrollo que sea necesario, incluyendo la infraestructura para ejecutar aplicaciones web o móviles. La administración y la actualización de la infraestructura quedan a cargo del proveedor; el equipo de desarrollo solo tienen que preocuparse por la programación de la aplicación.
   
-5.Comparativa de tres principales proveedores de Cloud Computing con respecto a su oferta general, posicionamiento en el mercado y beneficios para los developers
 ### AWS
+
 - Oferta general: Amazon Web Services (AWS) es la plataforma en la nube más adoptada y completa en el mundo, que ofrece más de 175 servicios integrales de centros de datos a nivel global. Millones de clientes, incluyendo las empresas emergentes que crecen más rápido, las compañías más grandes y los organismos gubernamentales líderes, están utilizando AWS para reducir los costos, aumentar su agilidad e innovar de forma más rápida.
 - Posicionamiento en el mercado: AWS es un lide casi hegemónico en el mercado frente a sus competidores, posee más de un tercio del mercado. Su competidor más cercano ha surgido a pasos agigantados, pero sigue sin tener ni la mitad del valor que tiene AWS, Google cloud, un competidor más reciente ha estado surgiendo fuertemente.
 - Beneficios para los developers: AWS se ha vuelto un estándard, por lo que tiene mucha fama, soporte y una fuerte comunidad, AWS está diseñado para permitir que los proveedores de aplicaciones, los proveedores de software independientes y los distribuidores puedan hospedar de una forma rápida y segura su aplicación, tanto si es una aplicación existente como si es una nueva aplicación basada en SaaS. Puede utilizar la consola de administración de AWS o las API de servicio web bien documentadas para obtener acceso a la plataforma de hospedaje de aplicaciones de AWS.
+
 ### Microsoft Azure
+
 - Oferta general: Azure es una nube pública de pago por uso que te permite compilar, implementar y administrar rápidamente aplicaciones en una red global de datacenters (centros de datos) de Microsoft. Esto quiere decir que cualquiera con acceso a internet es capaz de acceder a la plataforma, pero no quiere decir que cualquiera puede administrarla
 - Posicionamiento en el mercado: Actualmnente Microsoft Azure es el segundo mejor posicionado en el mercado detrás del gigante de Amazon AWS que tiene mayor valor en el mercado que sus 10 competidores juntos, ha tenido un crecimiento muy accelerado, recientemente está tendiendo a la baja.
 - Beneficios para los developers: Esta potente solución empresarial para la gestión de tus infraestructuras y aplicaciones presenta grandes ventajas: destacamos la flexibilidad y el pago por uso. Con Azure ya no es necesaria la inversión en máquinas físicas y el mantenimiento que conllevan. De esta manera, se simplifica el despliegue ya que no hay que comprometerse con largos periodos de amortización, se agiliza el proceso de configuración y nos permite adaptar nuestros sistemas a nuestras necesidades en pocos minutos
+
 ### Google Cloud 
+
 - Oferta general:  Entrando en el mercado recientemente y con menos enfoque en la empresa comparado con los demás, Google tiene experiencia técnica en sus herramientas orientadas en la industria del deep learning, inteligencia artificial, machine learning y análisis de datos.
 - Posicionamiento en el mercado: Recibe 8 mil millones de dolares en ingresos. Es el tercer proveedor que  más ingresos recibe en el mundo.
 - Beneficios para los developers: Está diseñado para negocios nativos en la nube, contratos flexibles y grandes ofertas.
