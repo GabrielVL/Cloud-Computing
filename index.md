@@ -62,3 +62,5 @@ https://www.datamation.com/cloud-computing/aws-vs-azure-vs-google-cloud-comparis
 Mell, P., & Grance, T. (2011, September 7). The NIST Definition of Cloud Computing. National Institute of Standards and Technology. http://faculty.winthrop.edu/domanm/csci411/Handouts/NIST.pdf
 
 Tecon Soluciones Informáticas. (2019, May 15). ¿Qué es Microsoft Azure? ¿Cómo funciona? Tecon. https://www.tecon.es/que-es-microsoft-azure-como-funciona/
+
+Beneficios. (2018). Amazon Web Services, Inc. https://aws.amazon.com/es/application-hosting/benefits/
