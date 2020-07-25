@@ -51,13 +51,11 @@ Este modelo tiene como recursos sistemas operativos, sistemas de gestión de bas
 - Beneficios para los developers: Está diseñado para negocios nativos en la nube, contratos flexibles y grandes ofertas.
 6. Construcción de una aplicación sencilla de ejemplo en el PaaS de tres proveedores distintos. Deberá proveer el link de la aplicación ejecutándose en el cloud y el repositorio de GitHub con el código
 
-https://www.salesforce.com/mx/cloud-computing/
+Cloud Computing: ¿Qué es y cuáles sus ventajas? (2018). Salesforce.Com. https://www.salesforce.com/mx/cloud-computing/
 
-https://rockcontent.com/es/blog/computacion-en-la-nube/
+Grapsas, T. (2019, March 21). ¿Qué es cloud computing o computación en la nube? Conoce el concepto. Rock Content. https://rockcontent.com/es/blog/computacion-en-la-nube/
 
-https://www.c-sharpcorner.com/article/top-10-cloud-service-providers/
-
-https://www.datamation.com/cloud-computing/aws-vs-azure-vs-google-cloud-comparison.html
+AWS vs. Azure vs. Google: Cloud Comparison. (2020, March 17). AWS vs. Azure vs. Google: Cloud Comparison. https://www.datamation.com/cloud-computing/aws-vs-azure-vs-google-cloud-comparison.html
 
 Mell, P., & Grance, T. (2011, September 7). The NIST Definition of Cloud Computing. National Institute of Standards and Technology. http://faculty.winthrop.edu/domanm/csci411/Handouts/NIST.pdf
 
