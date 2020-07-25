@@ -57,7 +57,7 @@ Este modelo tiene como recursos sistemas operativos, sistemas de gestión de bas
 PaaS aplicaciones de ejemplo sencillas:
 1. [https://simpleapp.azurewebsites.net](https://simpleapp.azurewebsites.net)
 Hecha con Azure para webhosting, por favor contactar a los estudiantes cuando se vaya a acceder, pues con microsoft Azure se cuenta solo con una hora al día donde el servidor estará corriendo, esto pues es la versión gratuita del servicio.
-2. [https://simple-website-fgjhhghgj.mybluemix.net] (https://simple-website-fgjhhghgj.mybluemix.net)
+2. [https://simple-website-fgjhhghgj.mybluemix.net](https://simple-website-fgjhhghgj.mybluemix.net)
 Este corre sin problemas, es un countdown al 17 de junio del 2021, el código se encuentra en el repositorio y en el autogenerado por IBM Cloud <https://github.com/Isaacoun100/datos-investigation > usando IBM Cloud
 3. 
 
