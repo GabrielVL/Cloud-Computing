@@ -49,7 +49,12 @@ Este modelo tiene como recursos sistemas operativos, sistemas de gestión de bas
 - Oferta general:  Entrando en el mercado recientemente y con menos enfoque en la empresa comparado con los demás, Google tiene experiencia técnica en sus herramientas orientadas en la industria del deep learning, inteligencia artificial, machine learning y análisis de datos.
 - Posicionamiento en el mercado: Recibe 8 mil millones de dolares en ingresos. Es el tercer proveedor que  más ingresos recibe en el mundo.
 - Beneficios para los developers: Está diseñado para negocios nativos en la nube, contratos flexibles y grandes ofertas.
-6. Construcción de una aplicación sencilla de ejemplo en el PaaS de tres proveedores distintos. Deberá proveer el link de la aplicación ejecutándose en el cloud y el repositorio de GitHub con el código
+
+PaaS aplicaciones de ejemplo sencillas:
+1. https://simpleapp.azurewebsites.net
+Hecha con Azure para webhosting, por favor contactar a los estudiantes cuando se vaya a acceder, pues con microsoft Azure se cuenta solo con una hora al día donde el servidor estará corriendo, esto pues es la versión gratuita del servicio.
+2. 
+3. 
 
 Cloud Computing: ¿Qué es y cuáles sus ventajas? (2018). Salesforce.Com. https://www.salesforce.com/mx/cloud-computing/
 
